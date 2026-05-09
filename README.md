@@ -43,10 +43,6 @@ Follow these steps to run the project locally:
    npm run build
    ```
 
-## Live Deployment
-
-The website is deployed and publicly accessible here: [Live Website URL]
-*(Replace with your Vercel or Netlify link once deployed)*
 
 ## Author
-John Doe (Replace with your actual name)
+VIDYASRI TUMMALAPALLI
